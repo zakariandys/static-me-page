@@ -1,10 +1,10 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2021-08-10'
+title: 'Senior Software Engineer'
+company: 'DANA Indonesia'
+location: 'South of Jakarta'
+range: 'May 2020 - Present'
+url: 'https://dana.id/'
 ---
 
 - Developed and shipped highly interactive web applications for Apple Music using Ember.js
