@@ -58,15 +58,15 @@ const Hero = () => {
     return () => clearTimeout(timeout);
   }, []);
 
-  const one = <h1>Hola, here with me</h1>;
+  const one = <h1>Hola, my name's</h1>;
   const two = <h2 className="big-heading">Zakaria Andy Saputro</h2>;
   const three = <h3 className="big-heading">Software Engineer</h3>;
   const four = (
     <p>
-      3 years experience software engineer with a passion for developing innovative apps. Currently,
-      I'm back-end engineer at <a href="https://www.dana.id/">DANA Indonesia</a> focused on develop
-      and maintain an application to build cashless society environment and best user payment
-      experience.
+      ± 3 years experience software engineer with a passion for developing innovative apps.
+      Currently, I'm back-end engineer at <a href="https://www.dana.id/">DANA Indonesia</a> focused
+      on develop and maintain an application to make cashless society environment and best user
+      payment experience.
     </p>
   );
   const five = (

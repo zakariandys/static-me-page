@@ -11,4 +11,4 @@ url: 'https://dana.id/'
 - Continuously maintain and do some improvements on the existing features
 - Regularly support daily on-duty, including maintain the system reliability by create proper monitoring point which cover API's success and time cosut rate, resources (CPU, Memory, Database), traffic and payment trend, etc.
 - Regularly participating on load-test
-- Lead small team emmber with direct reports
+- Lead small team member with direct reports
