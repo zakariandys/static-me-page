@@ -7,7 +7,6 @@ range: 'November 2016 - August 2018'
 url: 'https://kofera.com/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Developed and shipped Campaign Builder APIs which integrate with Google AdWords API using Java
+- Build an automation test to support end-to-end integration using Selenium as a web driver and write in Java
+- Do research and development to build MVP of another marketing automation tools, such as IklanKu, SmartPromo, YellowPages, etc.
