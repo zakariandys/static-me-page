@@ -150,15 +150,16 @@ const About = () => {
             <p>
               Starting the journey as a back-end engineer since 2017 after graduates from Budi Luhur
               University and jump to the one of local startup that running their business on{' '}
-              <a href="https://kofera.com/">Digital Marketing agency</a>, which integrating the apps
-              with Google Adwords API and running the environment on Google Cloud Platform.
+              <a href="https://kofera.com/">Digital Marketing automation services</a>, which
+              integrating the system with Google Adwords API and running the environment on Google
+              Cloud Platform.
             </p>
 
             <p>
               Turning on 2 years later I joined as an Associate Software Engineer at{' '}
-              <a href="https://dana.id/">DANA Indonesia</a> to build user payment experience. I'm
-              developing and continously maintaining the microservices system application to support
-              cashless society environment.
+              <a href="https://dana.id/">DANA Indonesia</a> to build best user payment experience.
+              I'm developing and continously maintaining the microservices system application to
+              support cashless society environment.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
