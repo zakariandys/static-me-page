@@ -10,7 +10,7 @@ tech:
   - MySQL |
   - Tair |
   - Ant Financial Middleware
-showInProjects: true
+showInProjects: false
 ---
 
 Feature that enable user to transfer and request money to several destination also with variant payment method (DANA Balance, Debit Card, Direct Debit, etc.). Also provide gamification send money feature to group of people called DANA Kaget.
